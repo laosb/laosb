@@ -8,7 +8,7 @@ Mainly write JS(TS) & Swift, and mainly frontend & iOS.
 🦜 Twitter: [@laosbxd](https://lao.sb/t)\
 ✈️ Telegram: [*Channel* Laoself](https://t.me/laoself)\
 📮 Email: See on my profile, though I check it like once a month.\
-💬 Ask me anything: [ask.lao.sb/What's your major in university](https://ask.lao.sb/What's your major in university) (*Don't ask this problem, seriously. A private AMA method is planned.*)
+💬 Ask me anything: [ask.lao.sb/What's your major in university](https://ask.lao.sb/What's%20your%20major%20in%20university) (*Don't ask this problem, seriously. A private AMA method is planned.*)
 
 <!--
 **laosb/laosb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
