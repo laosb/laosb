@@ -4,10 +4,10 @@
 
 Mainly write JS(TS) & Swift, and mainly frontend & iOS.
 
-🌍 Personal Website (*planned to refactor*): [lao.sb](https://lao.sb)
-🦜 Twitter: [@laosbxd](https://lao.sb/t)
-✈️ Telegram: [*Channel* Laoself](https://t.me/laoself)
-📮 Email: See on my profile, though I check it like once a month.
+🌍 Personal Website (*planned to refactor*): [lao.sb](https://lao.sb)\
+🦜 Twitter: [@laosbxd](https://lao.sb/t)\
+✈️ Telegram: [*Channel* Laoself](https://t.me/laoself)\
+📮 Email: See on my profile, though I check it like once a month.\
 💬 Ask me anything: [ask.lao.sb/What's your major in university](https://ask.lao.sb/What's your major in university) (*Don't ask this problem, seriously. A private AMA method is planned.*)
 
 <!--
