@@ -9,7 +9,7 @@
 
 Mainly write JS(TS) & Swift, and mainly frontend & iOS.
 
-🌍 Personal Website<sup>*1</sup>: [lao.sb](https://lao.sb)\
+🌍 Personal Website: [lao.sb](https://lao.sb)<sup>*1</sup> / [gemini://gmi.of.sb](gemini://gmi.of.sb)\
 🦜 Twitter: [@laosbxd](https://lao.sb/t)\
 ✈️ Telegram: [*Channel* Laoself](https://t.me/laoself)\
 📮 Email: See on my profile<sup>*2</sup>.\
