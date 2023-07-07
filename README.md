@@ -1,30 +1,17 @@
-<table>
-<tbody>
-<tr>
-<td>
-
 ### 👋 I'm Shibo Lyu (or, laosb).
 
 *(I used Wexpo Lyu as name before, if you came from old stuff)*
 
 Mainly write JS(TS) & Swift, and mainly frontend & iOS.
 
-🌍 Personal Website: [lao.sb](https://lao.sb)<sup>*1</sup> / [gemini://gmi.of.sb](gemini://gmi.of.sb)\
+🌍 Personal Website: [lao.sb](https://lao.sb)<sup>*1</sup>\
+📒 Blog: [The Base](https://thebase.blog)\
 🦜 Twitter: [@laosbxd](https://lao.sb/t)\
 ✈️ Telegram: [*Channel* Laoself](https://t.me/laoself)\
 📮 Email: See on my profile<sup>*2</sup>.\
 💬 Ask me anything: [ask.lao.sb/What's your major in university](https://ask.lao.sb/What's%20your%20major%20in%20university)<sup>*3</sup>
 
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=laosb&show_icons=true&count_private=true">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laosb&layout=compact">
-</td>
-</tr>
-</tbody>
-
-</table>
+![Trophies](https://github-profile-trophy.vercel.app/?username=laosb)
 
 <details>
   <summary>*Asterisks</summary>
