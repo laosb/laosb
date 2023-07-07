@@ -11,7 +11,8 @@ Mainly write JS(TS) & Swift, and mainly frontend & iOS.
 📮 Email: See on my profile<sup>*2</sup>.\
 💬 Ask me anything: [ask.lao.sb/What's your major in university](https://ask.lao.sb/What's%20your%20major%20in%20university)<sup>*3</sup>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=laosb)
+![Trophies](https://github-profile-trophy.vercel.app/?username=laosb&margin-w=10&margin-h=10&no-frame=true#gh-light-mode-only)
+![Trophies](https://github-profile-trophy.vercel.app/?username=laosb&margin-w=10&margin-h=10&no-frame=true&theme=gitdimmed#gh-dark-mode-only)
 
 <details>
   <summary>*Asterisks</summary>
