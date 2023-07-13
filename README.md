@@ -7,6 +7,7 @@ Mainly write JS(TS) & Swift, and mainly frontend & iOS.
 🌍 Personal Website: [lao.sb](https://lao.sb)<sup>*1</sup>\
 📒 Blog: [The Base](https://thebase.blog)\
 🦜 Twitter: [@laosbxd](https://lao.sb/t)\
+🧵 Threads: ![https://www.threads.net/laosbxd](https://thread-count.vercel.app/thread-count/laosbxd?label=laosbxd&gradient=false)\
 ✈️ Telegram: [*Channel* Laoself](https://t.me/laoself)\
 📮 Email: See on my profile<sup>*2</sup>.\
 💬 Ask me anything: [ask.lao.sb/What's your major in university](https://ask.lao.sb/What's%20your%20major%20in%20university)<sup>*3</sup>
