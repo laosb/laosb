@@ -2,7 +2,7 @@
 
 *(I used Wexpo Lyu as name before, if you came from old stuff)*
 
-Mainly write JS(TS) & Swift, and mainly frontend & iOS.
+Mainly write Swift and JavaScript (TypeScript), and mainly iOS (SwiftUI + UIKit).
 
 Web Classics | Social Media 
 -|-
