@@ -6,9 +6,9 @@ Mainly write Swift and JavaScript (TypeScript), and mainly iOS (SwiftUI + UIKit)
 
 Web Classics | Social Media 
 -|-
-🌍 Personal Website: [lao.sb](https://lao.sb)<sup>*1</sup> | 🦜 Twitter: [@laosbxd](https://lao.sb/t)
+🌍 Personal Website: [lao.sb](https://lao.sb)<sup>*1</sup> | 🦋 Bluesky: [@lao.sb](https://bsky.app/profile/lao.sb)
 📒 Blog: [The Base](https://thebase.blog) | ✈️ Telegram: [*Channel* Laoself](https://t.me/laoself)
-📮 Email: See on my profile<sup>*2</sup>. | 🧵 Threads: ![https://www.threads.net/laosbxd](https://thread-count.vercel.app/thread-count/laosbxd?label=laosbxd&gradient=false)
+📮 Email: See on my profile<sup>*2</sup>. | 🦜 Twitter: [@laosbxd](https://lao.sb/t)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=laosb&margin-w=10&margin-h=10&no-frame=true&theme=gitdimmed">
